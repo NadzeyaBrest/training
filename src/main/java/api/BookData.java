@@ -15,7 +15,7 @@ public class BookData {
     private String title;
     private String subTitle;
     private String author;
-    private OffsetDateTime publish_date;
+    private String publish_date;
     private String publisher;
     private Integer pages;
     private String description;
